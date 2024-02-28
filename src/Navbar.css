@@ -1,6 +1,8 @@
+
 .navbar-container{
  
    overflow-y: hidden;
+   
 
 }
 .inner-container{
@@ -19,6 +21,7 @@
 }
 .link p{
     font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .cta{
     border: 1px black ;
